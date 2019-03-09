@@ -1,0 +1,19 @@
+{
+  "name": "ws-file-transfer",
+  "version": "1.0.0",
+  "description": "ws file transfer example",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/webpack"
+  },
+  "author": "Polisskyi",
+  "license": "MIT",
+  "dependencies": {
+    "cbor": "^4.1.5",
+    "ws": "^6.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  }
+}
